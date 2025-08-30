@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Emelye, and I am a Computer Science Masters Student tyring to expand my coding knowledge!
+
+- 🔭 I’m currently working on GitHub projects in Python, and other languages to expand my wheelhouse
+- 🌱 I recently built ... check it out [here]
+- ⚡ Fun fact: I <3 Languages I am also learning Spanish and Darija!
+  
 <!--
 **emeb55/emeb55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
