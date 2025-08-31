@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Emelye, and I am a Computer Science Masters Student tyring to expand my coding knowledge!
+My name is Em, and I am a Computer Science Masters Student tyring to expand my coding knowledge!
 
 - 🔭 I’m currently working on GitHub projects in Python, and other languages to expand my wheelhouse
 - 🌱 I recently built ... check it out [here]
