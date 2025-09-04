@@ -3,7 +3,7 @@
 My name is Em, and I am a Computer Science Masters Student tyring to expand my coding knowledge!
 
 - 🔭 I’m currently working on GitHub projects in Python, and other languages to expand my wheelhouse
-- 🌱 I am currently working on ... check it out [here] https://github.com/emeb55/website1--scooter-try-out-
+- 🌱 I am currently working on ... check it out here: https://github.com/emeb55/website1--scooter-try-out-
 - ⚡ Fun fact: I <3 Languages I am also learning Spanish and Darija!
   
 <!--
